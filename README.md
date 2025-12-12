@@ -9,7 +9,7 @@
 ---
 
 ## 🌸 About Me
-- 🌼 BCA 1st year student  
+- 🌼 BCA 1st year student at Institute of Engineering and Management 
 - ✨ Learning step by step and building my coding journey  
 - 💗 Love **design + coding + creating aesthetic things**  
 - 🧠 Exploring **AI, Web, and problem-solving**  
